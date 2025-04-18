@@ -1,0 +1,6 @@
+{
+  "name": "xyncor-ui",
+  "scripts": {
+    "dev": "vite"
+  }
+}
